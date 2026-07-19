@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marlon&label=Visualizações+do+perfil&color=2F74C0&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=marldg&label=Visualizações+do+perfil&color=2F74C0&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-success?style=for-the-badge" alt="status"/>
 </p>
 
@@ -63,11 +63,11 @@ public class Estagiario {
 ### 🚀 Projetos em destaque
 
 <p align="center">
-  <a href="[https://github.com/marlon/repositorio-projeto-1](https://github.com/marldg/marldg)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marlon&repo=repositorio-projeto-1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
+  <a href="https://github.com/marldg/repositorio-projeto-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marldg&repo=repositorio-projeto-1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
   </a>
-  <a href="https://github.com/marlon/repositorio-projeto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marlon&repo=repositorio-projeto-2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
+  <a href="https://github.com/marldg/repositorio-projeto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marldg&repo=repositorio-projeto-2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
   </a>
 </p>
 
@@ -78,12 +78,12 @@ public class Estagiario {
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marlon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marlon&theme=tokyonight&hide_border=true" alt="streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marldg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marldg&theme=tokyonight&hide_border=true" alt="streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marldg&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 ---
@@ -91,13 +91,13 @@ public class Estagiario {
 ### 📫 Vamos conversar?
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/marlon-dias-712060417] target="_blank">
+  <a href="https://www.linkedin.com/in/marlon-dias-712060417" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mdiasgon.70@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/marlon" target="_blank">
+  <a href="https://github.com/marldg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
