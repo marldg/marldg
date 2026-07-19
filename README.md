@@ -63,16 +63,15 @@ public class Estagiario {
 ### 🚀 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/marldg/repositorio-projeto-1">
+  <a href="https://github.com/marldg/triagem-hospital">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marldg&repo=repositorio-projeto-1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
   </a>
-  <a href="https://github.com/marldg/repositorio-projeto-2">
+  <a href="https://github.com/marldg/shop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marldg&repo=repositorio-projeto-2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
   </a>
 </p>
 
-> 💡 Troque `repositorio-projeto-1` e `repositorio-projeto-2` pelos nomes reais dos seus repositórios para fixar seus melhores projetos aqui.
-
+> 💡`hospital-triagem` e `shop` 
 ---
 
 ### 📊 Estatísticas do GitHub
