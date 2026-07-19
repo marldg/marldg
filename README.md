@@ -63,7 +63,7 @@ public class Estagiario {
 ### 🚀 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/marlon/repositorio-projeto-1">
+  <a href="[https://github.com/marlon/repositorio-projeto-1](https://github.com/marldg/marldg)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marlon&repo=repositorio-projeto-1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
   </a>
   <a href="https://github.com/marlon/repositorio-projeto-2">
@@ -91,7 +91,7 @@ public class Estagiario {
 ### 📫 Vamos conversar?
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/marlon-dias-712060417](https://www.linkedin.com/in/marlon-dias-712060417/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/marlon-dias-712060417] target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mdiasgon.70@gmail.com">
