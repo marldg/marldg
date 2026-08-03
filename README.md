@@ -1,7 +1,7 @@
-<h1 align="center">👨‍🎓 Marlon | Estagiário em Desenvolvimento Java</h1>
+<h1 align="center">👨‍💻 Marlon | Desenvolvedor Full Stack Jr</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F74C0&center=true&vCenter=true&width=600&lines=Estudante+%26+Estagi%C3%A1rio+Java;Aprendendo+Spring+Boot+na+pr%C3%A1tica;Construindo+meus+primeiros+projetos;Em+busca+da+primeira+oportunidade+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F74C0&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%2B+Spring+Boot;APIs+REST+%2B+JPA%2FHibernate;HTML+%2B+CSS+%2B+JavaScript;Em+busca+da+primeira+oportunidade+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,48 +14,59 @@
 ### 🧩 Sobre mim
 
 ```java
-public class Estagiario {
-    private String nome = "Marlon";
-    private String objetivo = "Crescer como desenvolvedor Java";
-    private String[] estudando = {"Spring Boot", "APIs REST", "JPA/Hibernate"};
-    private boolean vontadeDeAprender = true;
+public class Marlon {
+    private String[] backend  = {"Java", "Spring Boot", "Spring Data JPA", "Hibernate", "REST APIs"};
+    private String[] frontend = {"HTML5", "CSS3", "JavaScript"};
+    private String[] banco    = {"MySQL", "SQL"};
+    private String[] ferramentas = {"Git", "GitHub", "Maven", "Postman", "IntelliJ IDEA"};
+    private String   objetivo = "Crescer como desenvolvedor Full Stack";
 
     public void apresentar() {
-        System.out.println("Curioso, dedicado e sempre codando algo novo. 🚀");
+        System.out.println("Construindo projetos reais e aprendendo na prática. 🚀");
     }
 }
 ```
 
-- 🎓 Estudante de programação, em formação na área de **Desenvolvimento Java**
-- 🌱 Aprendendo **Spring Boot** e construção de **APIs RESTful** na prática
-- 🗃️ Estudando **JPA / Hibernate** e modelagem de banco de dados
-- 🤝 Em busca da minha **primeira vaga como estagiário/júnior**
-- 📚 Estudando todos os dias — Java, lógica e boas práticas de código
-- 💬 Aberto a feedbacks, code reviews e trocas com outros devs
+- 💻 Desenvolvedor **Full Stack** com foco em **Java/Spring Boot** no backend
+- 🌐 Experiência em **HTML5, CSS3 e JavaScript** no frontend
+- 🗃️ Conhecimento em **JPA/Hibernate** e modelagem de banco de dados com **MySQL**
+- 🔌 Construção e consumo de **APIs RESTful** testadas com **Postman**
+- 📐 Sólida base em **Programação Orientada a Objetos (POO)**
+- 🤝 Em busca da primeira vaga como **estagiário/júnior**
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+### 🛠️ Tecnologias
 
+#### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
+#### Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+#### Banco de Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+</p>
+
+#### Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
 </p>
 
 ---
@@ -64,14 +75,13 @@ public class Estagiario {
 
 <p align="center">
   <a href="https://github.com/marldg/triagem-hospital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marldg&repo=repositorio-projeto-1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marldg&repo=triagem-hospital&theme=tokyonight&hide_border=true" alt="Triagem Hospitalar"/>
   </a>
   <a href="https://github.com/marldg/shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marldg&repo=repositorio-projeto-2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marldg&repo=shop&theme=tokyonight&hide_border=true" alt="Sistema de Loja"/>
   </a>
 </p>
 
-> 💡`hospital-triagem` e `shop` 
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -102,5 +112,5 @@ public class Estagiario {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☕-Aprendendo%20um%20pouco%20mais%20todo%20dia-2F74C0?style=for-the-badge" alt="footer"/>
+  <img src="https://img.shields.io/badge/☕-Construindo%20projetos%20reais%20todo%20dia-2F74C0?style=for-the-badge" alt="footer"/>
 </p>
