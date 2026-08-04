@@ -78,7 +78,7 @@ API REST para gerenciar fila de atendimento hospitalar com prioridade por nível
 
 ---
 
-#### 🛒 [Analise de dados(Loja)](https://github.com/marldg/analisedaloja)
+#### 🛒 [Analise de Dados(Loja)](https://github.com/marldg/analisedaloja)
 API REST para gerenciar produtos, clientes e vendas, com controle automático de estoque.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
