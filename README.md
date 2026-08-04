@@ -69,7 +69,7 @@ public class Marlon {
 
 ### 🚀 Projetos em destaque
 
-#### 🏥 [Sistema de Automação(loja)(https://github.com/marldg/automacaodeloja)
+#### 🏥 [Sistema de Automação(Loja)](https://github.com/marldg/automacaodeloja)
 API REST para gerenciar fila de atendimento hospitalar com prioridade por nível de gravidade (Protocolo de Manchester).
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -78,7 +78,7 @@ API REST para gerenciar fila de atendimento hospitalar com prioridade por nível
 
 ---
 
-#### 🛒 [Analise de dados(loja)](https://github.com/marldg/analisedaloja)
+#### 🛒 [Analise de dados(Loja)](https://github.com/marldg/analisedaloja)
 API REST para gerenciar produtos, clientes e vendas, com controle automático de estoque.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
