@@ -69,21 +69,21 @@ public class Marlon {
 
 ### 🚀 Projetos em destaque
 
-#### 🏥 [Sistema de Automação(Loja)](https://github.com/marldg/automacaodeloja)
-API REST para gerenciar fila de atendimento hospitalar com prioridade por nível de gravidade (Protocolo de Manchester).
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![H2](https://img.shields.io/badge/H2-003545?style=flat&logo=h2&logoColor=white)
-
----
-
-#### 🛒 [Analise de Dados(Loja)](https://github.com/marldg/analisedaloja)
-API REST para gerenciar produtos, clientes e vendas, com controle automático de estoque.
+#### 🛒 [Sistema de Automação de Loja](https://github.com/marldg/automacaodeloja)
+API REST para gerenciar produtos, clientes e vendas com controle automático de estoque. Inclui endpoint de dashboard para integração com sistemas externos.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+#### 📊 [Análise de Dados da Loja](https://github.com/marldg/analisedaloja)
+Aplicação desktop em JavaFX que consome a API da automação e exibe um dashboard visual com total de vendas, quantidade de pedidos e status em tempo real.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Jackson](https://img.shields.io/badge/Jackson-JSON-blue?style=flat)
 
 ---
 
