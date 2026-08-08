@@ -96,7 +96,7 @@ Aplicação desktop em JavaFX que consome a API da automação e exibe um dashbo
 
 ---
 
-#### 🌐 [Site Loja Completo](https://github.com/marldg/Site-Teste-Completo)
+#### 🌐 [Site Loja Completo](https://github.com/marldg/Loja-Teste-Completo)
 Interface web em React e Tailwind CSS para gerenciar e visualizar dados da automação de loja em tempo real, com cadastro de produtos, clientes e vendas.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
