@@ -78,7 +78,7 @@ public class Marlon {
 
 ### 🚀 Projetos em destaque
 
-#### 🛒 [Sistema de Automação de Loja](https://github.com/marldg/automacaodeloja)
+#### 🛒 [Sistema de Automação de Loja(API)](https://github.com/marldg/automacaodeloja)
 API REST para gerenciar produtos, clientes e vendas com controle automático de estoque. Inclui endpoint de dashboard para integração com sistemas externos.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -87,7 +87,7 @@ API REST para gerenciar produtos, clientes e vendas com controle automático de 
 
 ---
 
-#### 📊 [Análise de Dados da Loja](https://github.com/marldg/analisedaloja)
+#### 📊 [Análise de Dados da Loja(API)](https://github.com/marldg/analisedaloja)
 Aplicação desktop em JavaFX que consome a API da automação e exibe um dashboard visual com total de vendas, quantidade de pedidos e status em tempo real.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
